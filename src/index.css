@@ -12,5 +12,12 @@ code {
     monospace;
 }
 .navbar {
-  background-color: rgba(8, 8, 116, 0.63) !important;
+  background-color: rgba(0, 0, 44, 0.876) !important;
+}
+.nav-link{
+  color: white !important;
+}
+
+.navbar-brand{
+  color:white !important;
 }
