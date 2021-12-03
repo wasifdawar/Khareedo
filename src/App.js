@@ -6,11 +6,12 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <BrowserRouter>
+      {/* <BrowserRouter>
       <Routes>
       <Route path='/' component={Homescreen} exact/>
       </Routes>
-      </BrowserRouter>
+      </BrowserRouter> */}
+      <Homescreen/>
       
       
     </div>
