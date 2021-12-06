@@ -12,21 +12,21 @@ code {
     monospace;
 }
 .navbar {
-  background-color: rgba(0, 0, 44, 0.876) !important;
+  background-color: rgba(2, 2, 82, 0.876) !important;
 }
-.nav-link{
+.nav-link {
   color: white !important;
 }
 
-.navbar-brand{
-  color:white !important;
+.navbar-brand {
+  color: white !important;
 }
 
-h1{
+h1 {
   font-size: 18px !important;
   text-align: left !important;
 }
 
-.img-fluid{
+.img-fluid {
   height: 200px !important;
 }
