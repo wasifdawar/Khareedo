@@ -14,7 +14,7 @@ const products = [
   },
   {
     id: 2,
-    rating: 5,
+    rating: 2,
     reviews: [],
     price: 15000,
     countInStock: 0,
@@ -53,7 +53,7 @@ const products = [
   },
   {
     id: 5,
-    rating: 5,
+    rating: 3,
     reviews: [],
     price: 800,
     countInStock: 7,

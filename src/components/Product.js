@@ -9,8 +9,10 @@ export default function Product({ product }) {
         <Link to={`product/${product.id}`}>
           <img src={product.image} alt="" className="img-fluid" />
           <h1>{product.name}</h1>
-          <Rating emptySymbol="fa fa-star-o fa-2x"
-  fullSymbol="fa fa-star fa-2x"/>
+          <Rating
+  initialRating={product.rating}
+  readonly
+/>
           <h1>Price:{product.price}</h1>
         </Link>
       </div>
